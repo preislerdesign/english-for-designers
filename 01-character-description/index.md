@@ -6,4 +6,4 @@
 
 - - -
 
-*O*, Samuel Preisler, drawing in Illustrator 2021
+Samuel Preisler, drawing in Illustrator 2021
