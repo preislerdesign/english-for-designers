@@ -6,4 +6,4 @@
 
 - - -
 
-*&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator. 2017
+*&*, Samuel Preisler, drawing in Illustrator 2021
