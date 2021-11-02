@@ -28,6 +28,7 @@ initial proposals to offer the client the opportunity to choose
 a path that will interest him.
 
 Check out our website in the future: modestio.cz (work in progress)
+
 ### Work showcase
 ![Lil boy Sam chillin with da Dog.](img/ModestioPrez.jpg)
 
