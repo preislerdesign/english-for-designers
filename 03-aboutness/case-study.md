@@ -1,3 +1,4 @@
+![Image of modestio logo at top of document.](img/ModestioHead.jpg)
 # Project studio MODESTIO
 
 ## Case study
