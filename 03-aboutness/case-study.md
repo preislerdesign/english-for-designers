@@ -1,4 +1,5 @@
-![Image of modestio logo at top of document.](img/ModestioHead.jpg)
+![ModestioAnimace](https://user-images.githubusercontent.com/92374131/139854724-af2695ff-18af-42ba-8698-ff7e4769ef8d.gif)
+
 # Project studio MODESTIO
 
 ## Case study
