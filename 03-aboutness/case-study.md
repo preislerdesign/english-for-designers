@@ -26,5 +26,5 @@ initial proposals to offer the client the opportunity to choose
 a path that will interest him.
 
 ### Work showcase
-
+![Lil boy Sam chillin with da Dog.](img/ModestioPrez.jpg)
 
