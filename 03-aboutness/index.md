@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi my name is Sam, a graphics designer working mostly on branding projects, websites, and advertising strategies as a frontend.
+Hi my name is Samuel Preisler, a graphics designer working mostly on branding projects, websites, and advertising strategies as a frontend.
 
 ## My story
 
