@@ -6,7 +6,7 @@ Hi my name is Samuel Preisler, a graphics designer working mostly on branding pr
 
 ## My story
 
-![Lil boy Sam chillin with da Dog.](img/YoungSam.jpg)
+![Photo from studio](img/SamSam.jpg)
 
 I was born in the north of the Czech Republic close to Germany where I lived with my parents in a small town called Česká Kamenice.
 
