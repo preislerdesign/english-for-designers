@@ -3,11 +3,11 @@
 
 
 ## Coursework
-01 &nbsp;&nbsp;[Character & Description](https://github.com/preislerdesign/english-for-designers/blob/main/01-character-description/index.md)<br>
-02 &nbsp;&nbsp;[Impression](https://github.com/preislerdesign/english-for-designers/blob/main/02-impression/index.md)<br>
-03 &nbsp;&nbsp;[Aboutness](https://github.com/preislerdesign/english-for-designers/blob/main/03-aboutness/index.md)<br>
-04 &nbsp;&nbsp;[Experience](https://github.com/preislerdesign/english-for-designers/blob/main/04-experience/index.md)<br>
-05 &nbsp;&nbsp;[Voice & Tone](https://github.com/preislerdesign/english-for-designers/blob/main/05-voice-tone/index.md)<br>
+01 &nbsp;&nbsp;[Character & Description](https://preislerdesign.github.io/english-for-designers/01-character-description/)<br>
+02 &nbsp;&nbsp;[Impression](https://preislerdesign.github.io/english-for-designers/02-impression/)<br>
+03 &nbsp;&nbsp;[Aboutness](https://preislerdesign.github.io/english-for-designers/03-aboutness/)<br>
+04 &nbsp;&nbsp;[Experience](https://preislerdesign.github.io/english-for-designers/04-experience/)<br>
+05 &nbsp;&nbsp;[Voice & Tone](https://preislerdesign.github.io/english-for-designers/05-voice-tone/)<br>
 06 &nbsp;&nbsp;Storytelling (Coming soon)<br>
 
 ## Takeaways
