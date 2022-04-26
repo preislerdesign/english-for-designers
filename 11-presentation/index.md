@@ -12,4 +12,12 @@ tourism in the city.
 City Council
 decided to rebuild the old cinema according to new trends, increase the pitch of the auditorium. The action started at the end
 November 1987 and lasted until December 1992
+![History of building](img/H1.png)
 
+![Research](img/T3.png)
+
+![Strategy](img/T2.png)
+
+![Goals](img/T1.png)
+
+## DESIGN CONCEPT
