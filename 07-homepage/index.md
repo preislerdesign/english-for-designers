@@ -9,6 +9,7 @@
 04 &nbsp;&nbsp;[Experience](https://preislerdesign.github.io/english-for-designers/04-experience/)<br>
 05 &nbsp;&nbsp;[Voice & Tone](https://preislerdesign.github.io/english-for-designers/05-voice-tone/)<br>
 06 &nbsp;&nbsp;Storytelling (Coming soon)<br>
+07 &nbsp;&nbsp;[Thesis digest](https://preislerdesign.github.io/english-for-designers/10-thesis-digest/)<br>
 
 ## Takeaways
 #### Github
